@@ -1,0 +1,26 @@
+{
+  "name": "generate_invoice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate-pdf": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmzzz/generate-pdf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmzzz/generate-pdf/issues"
+  },
+  "homepage": "https://github.com/jimmzzz/generate-pdf#readme",
+  "dependencies": {
+    "html-pdf": "^3.0.1"
+  },
+  "browserslist": [
+    "Safari >=4"
+    ]
+}
